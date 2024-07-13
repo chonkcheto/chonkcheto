@@ -1,9 +1,9 @@
 ## Hello hello 👋
 - 📊 I'm a data scientist looking for my next adventure.
 - 🌱 I’m currently improving my data engineering skills.
-- 🧬 I did my PhD research on gut hormones and metabolic diseases (type 2 diabetes, obesity, cardiovascular disease).
+- 🧬 My [PhD research](https://scholar.google.com/citations?hl=en&user=4reAnikAAAAJ&view_op=list_works&sortby=pubdate) focused on gut hormones and metabolic diseases. Mostly type 2 diabetes, but also obesity and cardiovascular disease.
 - 🐍 My go-to Python libraries: NumPy, pandas, Matplotlib, seaborn, scikit-learn. Occasionally I use PySpark, Keras, and TensorFlow.
-- 🐶 Ask me about: fostering dogs. It inspired my first end-to-end data science project post-PhD.
+- 🐶 Ask me about: fostering dogs. It inspired my first end-to-end [data science project](https://github.com/chonkcheto/adoptabledogsofny) post-PhD.
 - 📫 How to reach me: send a message on [LinkedIn](https://www.linkedin.com/in/tiaraahmad/).
 - ⛸️ Fun fact: I started figure skating in my second year of grad school. I'm perpertually working on my spins.
 - 🐶 Another fun fact: Chonkcheto was one of my dog's many nicknames. He also went by Gordito and Monsieur Chonkington. From the picture you can see he was the goodest boi on the subway.
