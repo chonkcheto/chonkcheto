@@ -1,6 +1,6 @@
 ## Hello hello 👋
-- 📊 I'm a biomedical data scientist looking for my next adventure.
-- 🌱 I’m currently learning to analyze single-cell RNA sequencing data.
+- 📊 I'm a biomedical data scientist looking for my next adventure. Working with data to improve human health is near and dear to my heart.
+- 🌱 I’m currently analyzing single-cell RNA sequencing data from [this paper](https://www.science.org/doi/10.1126/science.abj4008). They did CRISPR activation and interference screens on human T cells, it's pretty cool.
 - 🐍 My go-to Python libraries: NumPy, pandas, Matplotlib, seaborn, scikit-learn. Occasionally I use PySpark, Keras, and TensorFlow.
 - 🧬 My PhD research focused on gut hormones and metabolic diseases. Mostly type 2 diabetes, but also obesity and cardiovascular disease. This involved lots of molecular biology, cell biology (sometimes with human stem cells), and mouse experiments. I had the most fun once my project involved bulk RNA sequencing (it led to [this paper](https://www.jbc.org/article/S0021-9258(17)49493-2/fulltext)).
 - 💬 Ask me about: fostering dogs. It inspired my first end-to-end [data science project](https://github.com/chonkcheto/adoptabledogsofny) post-PhD.
