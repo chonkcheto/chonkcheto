@@ -1,8 +1,8 @@
 ## Hello hello 👋
-- 📊 I'm a data scientist looking for my next adventure.
-- 🌱 I’m currently learning about vector databases to integrate different types of biological data.
+- 📊 I'm a biomedical data scientist looking for my next adventure.
+- 🌱 I’m currently learning to analyze single-cell RNA sequencing data.
 - 🐍 My go-to Python libraries: NumPy, pandas, Matplotlib, seaborn, scikit-learn. Occasionally I use PySpark, Keras, and TensorFlow.
-- 🧬 My PhD research focused on gut hormones and metabolic diseases. Mostly type 2 diabetes, but also obesity and cardiovascular disease. This involved lots of molecular biology, cell biology (sometimes with human stem cells), and mouse experiments. I had the most fun once my project involved RNA sequencing (it led to [this paper](https://www.jbc.org/article/S0021-9258(17)49493-2/fulltext)).
+- 🧬 My PhD research focused on gut hormones and metabolic diseases. Mostly type 2 diabetes, but also obesity and cardiovascular disease. This involved lots of molecular biology, cell biology (sometimes with human stem cells), and mouse experiments. I had the most fun once my project involved bulk RNA sequencing (it led to [this paper](https://www.jbc.org/article/S0021-9258(17)49493-2/fulltext)).
 - 💬 Ask me about: fostering dogs. It inspired my first end-to-end [data science project](https://github.com/chonkcheto/adoptabledogsofny) post-PhD.
 - 🐶 Fun fact: Chonkcheto was one of my dog's many nicknames. From the picture you can see he was the goodest boi on the subway.
 - 📫 How to reach me: send a message on [LinkedIn](https://www.linkedin.com/in/tiaraahmad/).
